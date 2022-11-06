@@ -1,0 +1,2 @@
+# pharo
+Learning pharo launcher
