@@ -1,2 +1,2 @@
-# pharo
+# MyCoolProyectWithPharo
 Learning pharo launcher
